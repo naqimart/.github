@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Banner Naqimart" src="/images/banner-naqimart.png?raw=true"><br>
+    <img alt="Banner Naqimart" src="https://github.com/naqimart/.github/blob/main/profile/images/banner-naqimart.png?raw=true"><br>
 </p>
 
 ## About Naqimart
